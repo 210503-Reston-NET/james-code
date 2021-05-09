@@ -1,0 +1,12 @@
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.csprojAssemblyReference.cache
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfoInputs.cache
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.AssemblyInfo.cs
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\bin\Debug\net5.0\RRModels.deps.json
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\bin\Debug\net5.0\RRModels.dll
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\bin\Debug\net5.0\ref\RRModels.dll
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\bin\Debug\net5.0\RRModels.pdb
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.dll
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\ref\RRModels.dll
+C:\Users\JP\Desktop\Programming\Revature\james-code\RestaurantReviews\RRModels\obj\Debug\net5.0\RRModels.pdb
