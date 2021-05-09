@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RRBL/1.0.0": {
+        "dependencies": {
+          "RRDL": "1.0.0",
+          "RRModels": "1.0.0"
+        },
+        "runtime": {
+          "RRBL.dll": {}
+        }
+      },
+      "RRDL/1.0.0": {
+        "dependencies": {
+          "RRModels": "1.0.0"
+        },
+        "runtime": {
+          "RRDL.dll": {}
+        }
+      },
+      "RRModels/1.0.0": {
+        "runtime": {
+          "RRModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RRBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
